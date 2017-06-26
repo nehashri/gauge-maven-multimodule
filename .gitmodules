@@ -1,0 +1,6 @@
+[submodule "module2/concepts"]
+	path = module2/concepts
+	url = git@github.com:nehashri/gauge-maven-multimodule-concepts.git
+[submodule "module1/concepts"]
+	path = module1/concepts
+	url = git@github.com:nehashri/gauge-maven-multimodule-concepts.git
